@@ -218,7 +218,7 @@ Immutable on-chain reputation tracking. Only the marketplace authority can updat
 ## 👥 Team: Kissan Jam
 
 - **Adithya Srivatsa**
-- **Karthikeya Kara**
+- **Sathya Sai Yejju**
 - **Yatish Vutla**
 
 ---
