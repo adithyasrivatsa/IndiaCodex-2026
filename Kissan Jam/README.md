@@ -96,7 +96,13 @@ docker-compose up -d
 
 This starts PostgreSQL + FastAPI backend.
 
----
+## 📚 Important Documentation for Judges
+We highly recommend starting with our supplemental documentation to fully understand the scope, architecture, and vision of AdaCompute:
+- **[For Judges](For_Judges.md)** - Explains our integration of the Cardano blockchain and the overarching problem we are solving.
+- **[Implementation Plan](Implementation_plan.md)** - Outlines our MVP features and our long-term roadmap.
+- **[Developers Guide](Developers.md)** - Details our tech stack and how the transaction flow works under the hood.
+
+*Note: All UI screenshots are available in the `/screenshots` folder. Testing was performed using the Lace Wallet.*
 
 ## 📁 Project Structure
 
