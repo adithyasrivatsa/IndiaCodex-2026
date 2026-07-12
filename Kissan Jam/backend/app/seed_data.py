@@ -53,7 +53,7 @@ def seed():
             {"wallet_address": "addr_test1qpq6xvd07ftxj3k8u6epzhf70h4nxz7jf6z7h0cz8qd5svgcmvks6eqfzj6v4yjmprk8x9f8rs57zgt3j5n3p7pxf3qknhwrj", "display_name": "NeuralForge", "role": UserRole.PROVIDER, "bio": "Democratizing AI with decentralized compute"},
             {"wallet_address": "addr_test1qr0c3frkem9cqn5f73dnvqpena27k2fgqew6wct9eaka03agfwkvzr0zyq7nqvcj24zehrshx63zzdxv24x3a4tcnfeq9zwmn7", "display_name": "LinguaTech", "role": UserRole.PROVIDER, "bio": "NLP and translation services for the world"},
             {"wallet_address": "addr_test1qq4h47rtu8ek3cv0r3jrj69q3nxklwvvhz9t0h8n0v6v4qqwkd7dv0kchxz6j6c5j2q3s7zw3vhc8dmxhg4prhs0d7sqycj5m7", "display_name": "DeepAudio AI", "role": UserRole.PROVIDER, "bio": "State-of-the-art audio and speech processing"},
-            {"wallet_address": "addr_test1qzx5mj7tx28m4pv3k7rdn0ql08jggfcnq9ghnzh4pxsyq9zd0n2x3pxsn6k47qf8phx4ky3j6sj9qh8k2v6z7n5p4qsrgqfta", "display_name": "PixelMind", "role": UserRole.PROVIDER, "bio": "Creative AI powered by Cardano"},
+            {"wallet_address": "addr_test1vqwvs32x3wg5ea2l5tr7t93hpta8arwxllr4ey96dhl5d7sytaf9n", "display_name": "PixelMind", "role": UserRole.PROVIDER, "bio": "Creative AI powered by Cardano"},
             {"wallet_address": "addr_test1qrxhyr2flena4ams5pcx26n0yj4ttpmjq2tmuesu4waw8n0qkvxuy9e5e5zy6tmkkkm5egj2228eua9avrt6gk4st4tuqkr6m52", "display_name": "CodeForge AI", "role": UserRole.PROVIDER, "bio": "AI-powered code generation and review"},
         ]
         providers = {}
