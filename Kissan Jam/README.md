@@ -1,3 +1,23 @@
+# 🍓 Kissan Jam - India Codex\'26 Submission
+
+## 🧑‍💻 Team Members
+- Adithya Srivatsa (Team Leader)
+- Yatish Vutla
+- Sathya Sai Yejju
+
+## 📊 **[CLICK HERE TO VIEW OUR PRESENTATION PPT](https://docs.google.com/presentation/d/1G0FtK8ClrN-hrehBc8vAvrkbR6V4jf-TJrNuz7Uh7ZY/edit?usp=sharing)**
+
+## 📚 Important Documentation for Judges
+We highly recommend starting with our supplemental documentation to fully understand the scope, architecture, and vision of AdaCompute:
+- **[For Judges](For_Judges.md)** - Explains our integration of the Cardano blockchain and the overarching problem we are solving.
+- **[Implementation Plan](Implementation_plan.md)** - Outlines our MVP features and our long-term roadmap.
+- **[Developers Guide](Developers.md)** - Details our tech stack and how the transaction flow works under the hood.
+- **[Smart Contract](smart_contracts/escrow.ak)** - The Aiken code for our decentralized escrow system.
+
+*Note: All UI screenshots are available in the /screenshots folder. Testing was performed using the Lace Wallet.*
+
+---
+
 # AdaCompute — Decentralized AI Service Exchange on Cardano
 
 > **"The financial exchange for AI services"** — Discover, purchase, and use AI services with ADA. Trustless payments, on-chain reputation, escrow-protected transactions.
