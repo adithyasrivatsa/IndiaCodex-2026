@@ -19,7 +19,7 @@ Our project is a decentralized AI Services Marketplace built on Cardano. It conn
 - Sathya Sai Yejju
 
 ## PPT Presentation
-*(Please insert link to PPT presentation here)*
+[Kissan Jam - India Codex'26 Presentation](https://docs.google.com/presentation/d/1G0FtK8ClrN-hrehBc8vAvrkbR6V4jf-TJrNuz7Uh7ZY/edit?usp=sharing)
 
 ## Project Structure
 - `/frontend` - Next.js React frontend built with Mesh SDK
