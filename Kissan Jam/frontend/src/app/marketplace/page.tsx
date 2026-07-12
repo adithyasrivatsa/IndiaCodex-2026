@@ -11,7 +11,7 @@ export default function MarketplacePage() {
   const [categories, setCategories] = useState<Category[]>(mockCategories);
   const [search, setSearch] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
-  const [maxPrice, setMaxPrice] = useState<number>(10);
+  const [maxPrice, setMaxPrice] = useState<number>(5000);
   const [minRating, setMinRating] = useState<number>(0);
   const [sortBy, setSortBy] = useState<string>("rating");
 
@@ -167,7 +167,7 @@ export default function MarketplacePage() {
             <input
               type="range"
               min="0.05"
-              max="10"
+              max="5000"
               step="0.05"
               value={maxPrice}
               onChange={(e) => setMaxPrice(Number(e.target.value))}
